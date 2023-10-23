@@ -2,7 +2,7 @@
  
 # Planz
 
-Planz is an event coordination tool built using a modern technology stack. It simplifies event coordination and organization, providing a user-friendly interface for creating, managing, and tracking events. This is a proof of concept developed in 8hours (backend & frontend)
+Planz is an event coordination tool built using a modern technology stack. It simplifies event coordination and organization, providing a user-friendly interface for creating, managing, and tracking events. This is a proof of concept that was developed in under 6 hours (backend & frontend inclusive)
 
 ## Technology Stack
 
@@ -35,14 +35,24 @@ To run the Planz application locally, follow these steps:
 5. Start the mobile app: `cd ../planz && npm start`
 6. Use the Expo app or an emulator to run the app on your device.
 
- ## Demo
- 
+## Demo
+<div style="width: 200px; height: 150px; overflow: hidden;">
+  <img src="./images/3.png" alt="3.png" style="width: 40%; height: 20%; object-fit: cover;">
+</div>
 
-![1.png](planz/images/1.png)
+<div style="width: 200px; height: 150px; overflow: hidden;">
+  <img src="./images/4.png" alt="4.png" style="width: 40%; height: 20%; object-fit: cover;">
+</div>
+<div style="width: 200px; height: 150px; overflow: hidden;">
+  <img src="./images/1.png" alt="1.png" style="width: 40%; height: 20%; object-fit: cover;">
+</div>
 
-![2.png](planz/images/2.png)
-![3.png](planz/images/3.png)
+<div style="width: 200px; height: 150px; overflow: hidden;">
+  <img src="./images/2.png" alt="2.png" style="width: 40%; height: 20%; object-fit: cover;">
+</div>
 
-![4.png](planz/images/4.png)
+
+
+
 
 These images provide visual representations of the project.
