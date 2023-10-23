@@ -10,7 +10,7 @@ Planz is an event coordination tool built using a modern technology stack. It si
 - Backend: Node.js, Express.js, MongoDB
 - AI Integration:  @xenova/transformers, CLIPVisionModelWithProjection, CLIPTextModelWithProjection, OpenAI GPT-3.5 Turbo, Unsplash API
 
-## Complex Methodologies
+## Methodologies
 
 - Modular Backend Architecture: The backend follows a modular architecture with separate components for authentication, event management, and utility functions. This promotes code organization and maintainability.
 
